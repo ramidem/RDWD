@@ -6,3 +6,9 @@ I am not sure which route to take but [p1xt's guides](https://github.com/P1xt/p1
 Please convince me this is a bad idea.
 
 This repo will be restructured as needed as I progress.
+
+---
+
+Currently learning...
+
+- [ ] [Computer Science Path](https://github.com/ramidem/RDWD/blob/master/Python/Codecademy/CS_Path/CS_Path.md)
