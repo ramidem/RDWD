@@ -5,7 +5,7 @@ This path offers a flexible and accessible method for learning computer science 
 ## I expect to Learn...
 
 - [x] Introduction to Programming
-- [ ] Development Skills
+- [x] Development Skills
 - [ ] Flow, Data, and Iteration
 - [ ] Build a Tourism Recommendation Engine
 - [ ] Python Objects

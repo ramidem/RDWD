@@ -1,0 +1,21 @@
+Navigation
+
+- ls
+	List directory contents
+
+- Filesystem
+	Organizes a computer's files and directories into tree structure
+
+- pwd
+	Print name of current/working directory
+
+- cd
+	Change directory
+
+- mkdir
+	Make directory
+
+- touch
+	Creates a new file
+
+- [Generalizations](https://www.codecademy.com/paths/computer-science/tracks/cspath-development-skills/modules/learn-the-command-line-navigation-u/projects/bicycle-world)
