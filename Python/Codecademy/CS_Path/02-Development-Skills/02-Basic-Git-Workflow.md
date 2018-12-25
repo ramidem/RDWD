@@ -10,7 +10,8 @@ project.
 ---
 
 **Git Workflow**
-Nice! We have a Git project. A Git project can be thought of as having three parts:
+
+A Git project can be thought of as having three parts:
 
 - A _Working Directory_: where you'll be doing all the work: creating, editing, deleting and organizing files
 - A _Staging Area_: where you'll list changes you make to the working directory
