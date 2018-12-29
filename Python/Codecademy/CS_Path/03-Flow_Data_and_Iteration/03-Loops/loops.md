@@ -59,11 +59,77 @@ The while loop performs a set of code until some condition is reached.
 all_students = ["Alex", "Briana", "Cheri", "Daniele", "Dora", "Minerva", "Alexa", "Obie", "Arius", "Loki"]
 students_in_poetry = []
 
+# initiate
 count = 0
+
 while count < 6:
+  # remove the last element
   student = all_students.pop()
+
+  # add it here
   students_in_poetry.append(student)
-  print(students_in_poetry)
+
+  # increment count
   count += 1
 
+print(students_in_poetry)
+```
+
+## Nested Loops
+
+A loop inside a loop
+
+```python
+sales_data = [[12, 17, 22], [2, 10, 3], [5, 12, 13]]
+
+scoops_sold = 0
+
+for location in sales_data:
+  for scoops in location:
+    scoops_sold += scoops
+
+print(scoops_sold)
+```
+
+## List Comprehensions
+
+```python
+heights = [161, 164, 156, 144, 158, 170, 163, 163, 157]
+
+can_ride_coaster = [height for height in heights if height > 161]
+
+# For Loop
+# for height in heights:
+#   if height > 161:
+#     can_ride_coaster.append(height)
+    
+print(can_ride_coaster)
+
+mod = [i for i in range(0, 100) if i % 2 == 0]
+print(mod)
+
+# Converts Celsius to Fahrenheit
+celsius = [0, 10, 15, 32, -5, 27, 3]
+
+fahrenheit = [((c_temp * 9/5) + 32) for c_temp in celsius]
+
+print(fahrenheit)
+```
+
+## Review
+
+```python
+single_digits = [i for i in range(0, 10)]
+
+squares = []
+
+for number in single_digits:
+  squared = number**2
+  squares.append(squared)
+
+print(squares)
+
+cubes = [cube**3 for cube in single_digits]
+
+print(cubes)
 ```
