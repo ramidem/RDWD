@@ -11,4 +11,4 @@ This repo will be restructured as needed as I progress.
 
 Currently learning...
 
-- [ ] [Computer Science Path](https://github.com/ramidem/RDWD/blob/master/Python/Codecademy/CS_Path/CS_Path.md)
+- [ ] [Computer Science Path](https://github.com/ramidem/RDWD/blob/master/Python/Codecademy/CS_Path/CS_Path.md) - This will never be finished unless I enroll for a PRO account. I did not realise this path was part of the PRO program. oh, well.
