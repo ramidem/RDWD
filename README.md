@@ -10,7 +10,7 @@ This repo will be restructured as needed as I progress.
 
 ## Currently learning...
 
-- [ ] [React Crash Course](./JavaScript/React/TraversyMedia/ReactCrashCourse/React Crash Course.md) by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [ ] [React Crash Course](https://github.com/ramidem/RTWD/blob/master/JavaScript/React/TraversyMedia/ReactCrashCourse/) by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 ---
 
