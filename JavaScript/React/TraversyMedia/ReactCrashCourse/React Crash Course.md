@@ -25,7 +25,7 @@ React is most popular framework in the industry (for now).
 
 **It may help to learn these first**
 
-Pretty much everything on this list are available on Fun Fun Function.
+Pretty much everything on this list are available on [Fun Fun Function](https://github.com/ramidem/RTWD/blob/master/JavaScript/FunctionalProgramming/funfunfunction/).
 
 - [x] [Classes]()
 - [x] [Destructuring]()
