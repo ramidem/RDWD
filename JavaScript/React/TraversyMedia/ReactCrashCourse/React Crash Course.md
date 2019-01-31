@@ -29,6 +29,6 @@ Pretty much everything on this list are available on [Fun Fun Function](https://
 
 - [x] [Classes]()
 - [x] [Destructuring]()
-- [ ] [High Order Array Methods](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - [ ] forEach, [x]`.map()`, [x]`.filter()`, [x]`.reduce()`
-- [ ] Arrow Functions
+- [x] [High Order Array Methods](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - `.forEach()`, `.map()`, `.filter()`, `.reduce()`
+- [x] [Arrow Functions](https://www.youtube.com/watch?v=6sQDTgOqh-I)
 - [ ] Fetch <span title="Application Programming Interface">API</span> & Promises

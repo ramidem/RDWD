@@ -6,6 +6,8 @@ A Learning Journal.
 
 This repo will be restructured as needed as I progress.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;We are what we repeatedly do. Excellence, then, is not an act, but a habit.&quot; - Aristotle</p>&mdash; Med Aduh (@ramidem) <a href="https://twitter.com/ramidem/status/1015487865944330240?ref_src=twsrc%5Etfw">July 7, 2018</a></blockquote>
+
 ---
 
 ## Currently learning...
