@@ -1,4 +1,4 @@
-# RTWD
+## RTWD
 
 **Road To Web Development**
 
@@ -10,12 +10,24 @@ This repo will be restructured as needed as I progress.
 
 ---
 
-## Currently learning...
-
-- [ ] [React Crash Course](https://github.com/ramidem/RTWD/blob/master/JavaScript/React/TraversyMedia/ReactCrashCourse/) by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+### Currently learning...
 
 ---
 
-## Quit
+### On-going
 
-- <s>[ ][computer science path](https://github.com/ramidem/RDWD/blob/master/Python/Codecademy/CS_Path/CS_Path.md)</s> - This will never be finished unless I enroll for a PRO account. I did not realise this path was part of the PRO program. oh, well.
+Meaning, I am either trying to find time for it or working on it one-item-per-day-ish at a time.
+
+- [ ] [Functional Programming in JavaScript](https://github.com/ramidem/RTWD/blob/master/JavaScript/FunctionalProgramming/funfunfunction/)
+
+---
+
+### Done
+
+- [x] [React Crash Course](https://github.com/ramidem/RTWD/blob/master/JavaScript/React/TraversyMedia/react-crash-coursee/) by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+---
+
+### Quit
+
+- _<s>[ ][computer science path](https://github.com/ramidem/RDWD/blob/master/Python/Codecademy/CS_Path/CS_Path.md) - This will never be finished unless I enroll for a PRO account. I did not realise this path was part of the PRO program. oh, well.</s>_
