@@ -18,7 +18,18 @@ This repo will be restructured as needed as I progress.
 
 Meaning, I am either trying to find time for it or working on it one-item-per-day-ish at a time.
 
-- [ ] [Functional Programming in JavaScript](https://github.com/ramidem/RTWD/blob/master/JavaScript/FunctionalProgramming/funfunfunction/)
+- [ ] [freeCodeCamp](https://github.com/ramidem/freeCodeCamp)
+- [ ] [Job Ready Guide - JavaScript Edition 3.0](https://github.com/ramidem/RTWD/blob/master/JavaScript/job-ready-3/)
+
+  **Tier 0 - Prep**
+
+  - [ ] **Course**: [Algebra I](https://www.khanacademy.org/math/algebra), [Algebra II](https://www.khanacademy.org/math/algebra2), [Trigonometry](https://www.khanacademy.org/math/trigonometry) and [Precalculus](https://www.khanacademy.org/math/precalculus) from [Khan Academy](https://www.khanacademy.org/).
+  - [ ] **Videos**: [Git Videos](https://git-scm.com/videos)
+    - or **Book**: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
+  - [ ] **Project**: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) - sign up for this now and work through it alongside the rest of the guide.
+
+* [ ] [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+* [ ] [Functional Programming in JavaScript](https://github.com/ramidem/RTWD/blob/master/JavaScript/FunctionalProgramming/funfunfunction/)
 
 ---
 
