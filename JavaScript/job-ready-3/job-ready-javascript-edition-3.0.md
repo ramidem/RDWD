@@ -10,7 +10,46 @@ A guide primarily focused on Frontend development, but including just enough of 
 
 **Goal:** Be comfortable with git by midway through Tier 1, and comfortable with Precalculus by the end of Tier 4.
 
-- [ ] **Course**: [Algebra I](https://www.khanacademy.org/math/algebra), [Algebra II](https://www.khanacademy.org/math/algebra2), [Trigonometry](https://www.khanacademy.org/math/trigonometry) and [Precalculus](https://www.khanacademy.org/math/precalculus) from [Khan Academy](https://www.khanacademy.org/).
+- [ ] **Course**: [Khan Academy](https://www.khanacademy.org/)
+
+  - [ ] [Algebra I](https://www.khanacademy.org/math/algebra)
+    - [ ] Algebra Foundations
+      - [x] Overview and history of algebra
+      - [x] Introduction to variables
+      - [x] Substitution and evaluating expressions
+      - [ ] Evaluating expressions word problems
+      - [ ] Quiz 1
+      - [ ] Writing algebraic expressions introduction
+      - [ ] Dependent & independent variables
+      - [ ] Quiz 2
+      - [ ] Combining like terms
+      - [ ] Introduction to equivalent algebraic expressions
+      - [ ] Interpreting linear expressions
+      - [ ] Division by zero
+      - [ ] Quiz 3
+      - [ ] Unit test
+    - [ ] Solving Equations
+    - [ ] Solving Inequalities
+    - [ ] Working with Units
+    - [ ] Linear Equations & Graphs
+    - [ ] Functions
+    - [ ] Linear Word Problems
+    - [ ] Sequences
+    - [ ] Systems of Equations
+    - [ ] Inequalities (Systems & Graphs)
+    - [ ] Absolute Value & Piecewise Functions
+    - [ ] Rational Exponent & Radicals
+    - [ ] Exponential Growth & Decay
+    - [ ] Polynomials
+    - [ ] Factoriazation
+    - [ ] Quadratics
+    - [ ] Irrational Numbers
+    - [ ] Course Challenge
+
+* [ ] [Algebra II](https://www.khanacademy.org/math/algebra2)
+* [ ] [Trigonometry](https://www.khanacademy.org/math/trigonometry)
+* [ ] [Precalculus](https://www.khanacademy.org/math/precalculus)
+
 - [ ] **Videos**: [Git Videos](https://git-scm.com/videos) or Book: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
 - [ ] **Project**: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) - sign up for this now and work through it alongside the rest of the guide.
 
