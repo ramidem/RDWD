@@ -50,8 +50,9 @@ A guide primarily focused on Frontend development, but including just enough of 
 * [ ] [Trigonometry](https://www.khanacademy.org/math/trigonometry)
 * [ ] [Precalculus](https://www.khanacademy.org/math/precalculus)
 
-- [ ] **Videos**: [Git Videos](https://git-scm.com/videos) or Book: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
-- [ ] **Project**: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) - sign up for this now and work through it alongside the rest of the guide.
+- [x] **Videos**: [Git Videos](https://git-scm.com/videos)
+  - [ ] or Book: [Pro Git](https://git-scm.com/book/en/v2)
+- [ ] **Project**: [Hackerrank](https://www.hackerrank.com/)
 
 ---
 
