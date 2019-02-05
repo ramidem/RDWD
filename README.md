@@ -12,10 +12,16 @@ This repo will be restructured as needed as I progress.
 
 ### Currently learning...
 
+**Tier 0**
+
 - [ ] **Course**: [Khan Academy](https://www.khanacademy.org/)
   - [ ] [Algebra I](https://www.khanacademy.org/math/algebra)
 - [x] **Videos**: [Git Videos](https://git-scm.com/videos)
   - [ ] or **Book**: [Pro Git](https://git-scm.com/book/en/v2)
+
+**Tier 1**
+
+- [ ] **Course**: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
 
 ---
 

@@ -17,8 +17,8 @@ A guide primarily focused on Frontend development, but including just enough of 
       - [x] Overview and history of algebra
       - [x] Introduction to variables
       - [x] Substitution and evaluating expressions
-      - [ ] Evaluating expressions word problems
-      - [ ] Quiz 1
+      - [x] Evaluating expressions word problems
+      - [x] Quiz 1
       - [ ] Writing algebraic expressions introduction
       - [ ] Dependent & independent variables
       - [ ] Quiz 2
