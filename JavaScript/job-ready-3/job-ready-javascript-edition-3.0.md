@@ -19,8 +19,8 @@ A guide primarily focused on Frontend development, but including just enough of 
       - [x] Substitution and evaluating expressions
       - [x] Evaluating expressions word problems
       - [x] Quiz 1
-      - [ ] Writing algebraic expressions introduction
-      - [ ] Dependent & independent variables
+      - [x] Writing algebraic expressions introduction
+      - [x] Dependent & independent variables
       - [ ] Quiz 2
       - [ ] Combining like terms
       - [ ] Introduction to equivalent algebraic expressions
@@ -61,6 +61,23 @@ A guide primarily focused on Frontend development, but including just enough of 
 **Goal**: Become comfortable with HTML, CSS, JavaScript and SQL basics.
 
 - [ ] **Course**: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+  - [x] Intro to programming
+  - [x] Drawing basics
+  - [x] Coloring
+  - [x] Variables
+  - [x] Animation basics
+  - [ ] Interactive programs
+  - [ ] Bonus: Resizing with variables
+  - [ ] Text and strings
+  - [ ] Functions
+  - [ ] Logic and if Statements
+  - [ ] Debugging programs
+  - [ ] Looping
+  - [ ] Writing clean code
+  - [ ] Arrays
+  - [ ] Objects
+  - [ ] Object-Oriented Design
+  - [ ] Becoming a better programmer
 - [ ] **Course**: [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [ ] **Course**: [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 - [ ] **Course**: [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)

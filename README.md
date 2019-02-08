@@ -22,6 +22,23 @@ This repo will be restructured as needed as I progress.
 **Tier 1**
 
 - [ ] **Course**: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+  - [x] Intro to programming
+  - [x] Drawing basics
+  - [x] Coloring
+  - [x] Variables
+  - [ ] Animation basics
+  - [ ] Interactive programs
+  - [ ] Bonus: Resizing with variables
+  - [ ] Text and strings
+  - [ ] Functions
+  - [ ] Logic and if Statements
+  - [ ] Debugging programs
+  - [ ] Looping
+  - [ ] Writing clean code
+  - [ ] Arrays
+  - [ ] Objects
+  - [ ] Object-Oriented Design
+  - [ ] Becoming a better programmer
 
 ---
 
