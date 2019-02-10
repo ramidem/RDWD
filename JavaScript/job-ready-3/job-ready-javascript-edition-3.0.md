@@ -66,7 +66,7 @@ A guide primarily focused on Frontend development, but including just enough of 
   - [x] Coloring
   - [x] Variables
   - [x] Animation basics
-  - [ ] Interactive programs
+  - [x] Interactive programs
   - [ ] Bonus: Resizing with variables
   - [ ] Text and strings
   - [ ] Functions
