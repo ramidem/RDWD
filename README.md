@@ -33,6 +33,15 @@ This repo will be restructured as needed as I progress.
 Other learning materials that are very helpful.
 
 - [ ] [funfunFunction Functional Programming in JavaScript](https://github.com/ramidem/RTWD/blob/master/JavaScript/)
+- [ ] [Wes Bos Free Courses](https://wesbos.com/courses/)
+  - [ ] [JavaScript30](https://javascript30.com/)
+    - ✔❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌
+  - [ ] [CSS Grid](https://cssgrid.io/)
+    - ❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌
+  - [x] [Mastering Markdown](https://masteringmarkdown.com/)
+  - [ ] [What The Flexbox?!](https://flexbox.io/)
+  - [x] [Command Line Power User](https://commandlinepoweruser.com/)
+  - [ ] [Learn Redux](https://learnredux.com/)
 
 ---
 
@@ -44,7 +53,7 @@ Other learning materials that are very helpful.
 
 #### HTML & CSS
 
-- [x] [HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw&t=31s)
+- [x] [HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw&t=31s) by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 ---
 
