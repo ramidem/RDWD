@@ -12,33 +12,39 @@ This repo will be restructured as needed as I progress.
 
 ### Currently learning...
 
-**Tier 0**
+- [ ] [freeCodeCamp](https://github.com/ramidem/freeCodeCamp)
+- [ ] [Job Ready Guide - JavaScript Edition 3.0](https://github.com/ramidem/RTWD/blob/master/JavaScript/job-ready-3/)
 
-- [ ] **Course**: [Khan Academy](https://www.khanacademy.org/)
-  - [ ] [Algebra I](https://www.khanacademy.org/math/algebra)
-- [x] **Videos**: [Git Videos](https://git-scm.com/videos)
-  - [ ] or **Book**: [Pro Git](https://git-scm.com/book/en/v2)
+  - [ ] **Tier 0**
 
-**Tier 1**
+    - [ ] **Course**: [Khan Academy](https://www.khanacademy.org/)
+      - [ ] [Algebra I](https://www.khanacademy.org/math/algebra)
+    - [x] **Videos**: [Git Videos](https://git-scm.com/videos)
+      - [ ] or **Book**: [Pro Git](https://git-scm.com/book/en/v2)
+    - [ ] **Project**: [Hackerrank](https://www.hackerrank.com/)
 
-- [ ] **Course**: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+  - [ ] **Tier 1**
+    - [ ] **Course**: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
 
 ---
 
-### On-going...
+### Others...
 
-Meaning, I am either trying to find time for it or working on it one-item-per-day-ish at a time.
+Other learning materials that are very helpful.
 
-- [ ] [freeCodeCamp](https://github.com/ramidem/freeCodeCamp)
-- [ ] [Job Ready Guide - JavaScript Edition 3.0](https://github.com/ramidem/RTWD/blob/master/JavaScript/job-ready-3/)
-- [ ] **Project**: [Hackerrank](https://www.hackerrank.com/)
-- [ ] [Functional Programming in JavaScript](https://github.com/ramidem/RTWD/blob/master/JavaScript/FunctionalProgramming/funfunfunction/)
+- [ ] [funfunFunction Functional Programming in JavaScript](https://github.com/ramidem/RTWD/blob/master/JavaScript/)
 
 ---
 
 ### Done
 
-- [x] [React Crash Course](https://github.com/ramidem/RTWD/blob/master/JavaScript/React/TraversyMedia/react-crash-coursee/) by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+#### JavaScript
+
+- [x] [React Crash Course 2019](https://github.com/ramidem/RTWD/blob/master/JavaScript/React/TraversyMedia/react-crash-course-2019/) by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+#### HTML & CSS
+
+- [x] [HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw&t=31s)
 
 ---
 
