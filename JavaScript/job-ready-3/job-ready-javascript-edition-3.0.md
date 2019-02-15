@@ -61,6 +61,7 @@ A guide primarily focused on Frontend development, but including just enough of 
 **Goal**: Become comfortable with HTML, CSS, JavaScript and SQL basics.
 
 - [ ] **Course**: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+
   - [x] Intro to programming
   - [x] Drawing basics
   - [x] Coloring
@@ -78,7 +79,18 @@ A guide primarily focused on Frontend development, but including just enough of 
   - [ ] Objects
   - [ ] Object-Oriented Design
   - [ ] Becoming a better programmer
+
 - [ ] **Course**: [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
+
+  - [x] Intro to HTML
+  - [x] Intro to CSS
+  - [ ] More HTML tags
+  - [ ] CSS text properties
+  - [ ] Web development tools
+  - [ ] CSS layout
+  - [ ] More CSS selectors
+  - [ ] Other ways to embed CSS
+
 - [ ] **Course**: [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 - [ ] **Course**: [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 - [ ] **Course**: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
