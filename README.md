@@ -35,7 +35,7 @@ Other learning materials that are very helpful.
 - [ ] [funfunFunction Functional Programming in JavaScript](https://github.com/ramidem/RTWD/blob/master/JavaScript/)
 - [ ] [Wes Bos Free Courses](https://wesbos.com/courses/)
   - [ ] [JavaScript30](https://javascript30.com/)
-    - ✔✔✔✔✔✔❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌
+    - ✔✔✔✔✔✔✔✔❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌
   - [ ] [CSS Grid](https://cssgrid.io/)
   - [x] [Mastering Markdown](https://masteringmarkdown.com/)
   - [ ] [What The Flexbox?!](https://flexbox.io/)
