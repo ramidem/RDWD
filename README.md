@@ -24,7 +24,11 @@ This repo will be restructured as needed as I progress.
     - [ ] **Project**: [Hackerrank](https://www.hackerrank.com/)
 
   - [ ] **Tier 1**
+
     - [ ] **Course**: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+
+  - [ ] **Tier 2**
+    - [ ] **Book**: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 
 ---
 
@@ -35,7 +39,7 @@ Other learning materials that are very helpful.
 - [ ] [funfunFunction Functional Programming in JavaScript](https://github.com/ramidem/RTWD/blob/master/JavaScript/)
 - [ ] [Wes Bos Free Courses](https://wesbos.com/courses/)
   - [ ] [JavaScript30](https://javascript30.com/)
-    - ✔✔✔✔✔✔✔✔❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌
+    - ✔✔✔✔✔✔✔✔✔✔✔❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌
   - [ ] [CSS Grid](https://cssgrid.io/)
   - [x] [Mastering Markdown](https://masteringmarkdown.com/)
   - [ ] [What The Flexbox?!](https://flexbox.io/)
