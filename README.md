@@ -53,6 +53,7 @@ Other learning materials that are very helpful.
 #### JavaScript
 
 - [x] [React Crash Course 2019](https://github.com/ramidem/RTWD/blob/master/JavaScript/React/TraversyMedia/react-crash-course-2019/) by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [x] [todoList-vanillaJS](https://github.com/ramidem/todoList-vanillaJS) - [Practical JavaScript](https://watchandcode.com/p/practical-javascript) by [Watch and Code](https://watchandcode.com/)
 
 #### HTML & CSS
 
