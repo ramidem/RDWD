@@ -2,9 +2,9 @@
 
 - [x] Higher-order Functions
 - [x] Map
-- [ ] Reduce: basics
-- [ ] Reduce: advanced
-- [ ] Closures
+- [x] Reduce: basics
+- [x] Reduce: advanced
+- [x] Closures
 - [ ] Currying
 - [ ] Recursion
 - [ ] Promises

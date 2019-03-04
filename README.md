@@ -36,7 +36,7 @@ This repo will be restructured as needed as I progress.
 
 Other learning materials that are very helpful.
 
-- [ ] [funfunFunction Functional Programming in JavaScript](https://github.com/ramidem/RTWD/blob/master/JavaScript/)
+- [ ] [funfunFunction Functional Programming in JavaScript](https://github.com/ramidem/RTWD/tree/master/JavaScript/Others/vanillaJs/funfunfunction)
 - [ ] [Wes Bos Free Courses](https://wesbos.com/courses/)
   - [ ] [JavaScript30](https://javascript30.com/)
     - ✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔❌❌❌❌❌❌❌❌❌❌❌❌❌❌
