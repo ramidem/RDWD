@@ -5,7 +5,7 @@
 - [x] Reduce: basics
 - [x] Reduce: advanced
 - [x] Closures
-- [ ] Currying
+- [x] Currying
 - [ ] Recursion
 - [ ] Promises
 - [ ] Functors?
