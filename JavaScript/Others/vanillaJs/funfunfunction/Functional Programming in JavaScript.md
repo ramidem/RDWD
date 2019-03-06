@@ -6,8 +6,8 @@
 - [x] Reduce: advanced
 - [x] Closures
 - [x] Currying
-- [ ] Recursion
-- [ ] Promises
+- [x] Recursion
+- [x] Promises - _Revisit_ and try to incorporate `.fetch()`
 - [ ] Functors?
 - [ ] Streams
 - [ ] Monad
