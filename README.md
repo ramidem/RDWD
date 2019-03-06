@@ -13,15 +13,13 @@ This repo will be restructured as needed as I progress.
 ### Currently learning...
 
 - [ ] [freeCodeCamp](https://github.com/ramidem/freeCodeCamp)
-- [ ] [Job Ready Guide - JavaScript Edition 3.0](https://github.com/ramidem/RTWD/blob/master/JavaScript/job-ready-3/)
+- [ ] [Job Ready Guide - JavaScript Edition 3.0](https://github.com/ramidem/RTWD/blob/master/JavaScript/job-ready-3/job-ready-javascript-edition-3.0.md)
 
   - [ ] **Tier 0**
 
     - [ ] **Course**: [Khan Academy](https://www.khanacademy.org/)
       - [ ] [Algebra I](https://www.khanacademy.org/math/algebra)
     - [x] **Videos**: [Git Videos](https://git-scm.com/videos)
-      - [ ] or **Book**: [Pro Git](https://git-scm.com/book/en/v2)
-    - [ ] **Project**: [Hackerrank](https://www.hackerrank.com/)
 
   - [ ] **Tier 1**
 
@@ -45,6 +43,12 @@ Other learning materials that are very helpful.
   - [ ] [What The Flexbox?!](https://flexbox.io/)
   - [x] [Command Line Power User](https://commandlinepoweruser.com/)
   - [ ] [Learn Redux](https://learnredux.com/)
+
+---
+
+### Practice
+
+- [ ] **Project**: [Hackerrank](https://www.hackerrank.com/)
 
 ---
 
