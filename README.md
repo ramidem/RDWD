@@ -34,10 +34,9 @@ This repo will be restructured as needed as I progress.
 
 Other learning materials that are very helpful.
 
-- [ ] [funfunFunction Functional Programming in JavaScript](https://github.com/ramidem/RTWD/tree/master/JavaScript/Others/vanillaJs/funfunfunction)
 - [ ] [Wes Bos Free Courses](https://wesbos.com/courses/)
   - [ ] [JavaScript30](https://javascript30.com/)
-    - ✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔❌❌❌❌❌❌❌❌❌❌❌❌❌
+    - ✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔✔❌❌❌❌❌❌❌❌❌❌❌❌
   - [ ] [CSS Grid](https://cssgrid.io/)
   - [x] [Mastering Markdown](https://masteringmarkdown.com/)
   - [ ] [What The Flexbox?!](https://flexbox.io/)
@@ -58,6 +57,7 @@ Other learning materials that are very helpful.
 
 - [x] [React Crash Course 2019](https://github.com/ramidem/RTWD/blob/master/JavaScript/React/TraversyMedia/react-crash-course-2019/) by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [x] [todoList-vanillaJS](https://github.com/ramidem/todoList-vanillaJS) - [Practical JavaScript](https://watchandcode.com/p/practical-javascript) by [Watch and Code](https://watchandcode.com/)
+- [x] [funfunFunction Functional Programming in JavaScript](https://github.com/ramidem/RTWD/tree/master/JavaScript/Others/vanillaJs/funfunfunction)
 
 #### HTML & CSS
 
