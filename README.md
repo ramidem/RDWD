@@ -42,6 +42,7 @@ Other learning materials that are very helpful.
   - [ ] [What The Flexbox?!](https://flexbox.io/)
   - [x] [Command Line Power User](https://commandlinepoweruser.com/)
   - [ ] [Learn Redux](https://learnredux.com/)
+- [ ] [Frontend Developer Handbook: 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 ---
 
